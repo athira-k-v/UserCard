@@ -1,0 +1,18 @@
+body{
+    /* background-color: rgb(165, 133, 188); */
+    background-image: url(./img/download\ \(8\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#res{
+    padding: auto;
+    width:auto;
+}
+.d{
+    width: 300px;
+background-color:#4e4c4b ;
+}
+.list-group-item{
+    background-color:#9f9d9c;
+
+}
